@@ -1,16 +1,16 @@
 [
     {
-        "name": "UppitySpinnerV3-23.02.27",
-        "branch": "23.02.27",
-        "description": "### 2023 February 27",
-        "url": "https://github.com/reeltwo/R2UppitySpinnerV3/releases/download/23.02.27/UppitySpinnerV3.bin",
-        "zipfile": "https://github.com/reeltwo/R2UppitySpinnerV3/releases/download/23.02.27/UppitySpinnerV3.zip",
+        "name": "UppitySpinnerV3-23.12.04",
+        "branch": "23.12.04",
+        "description": "### 2023 December 4",
+        "url": "https://github.com/reeltwo/R2UppitySpinnerV3/releases/download/23.12.04/UppitySpinnerV3.bin",
+        "zipfile": "https://github.com/reeltwo/R2UppitySpinnerV3/releases/download/23.12.04/UppitySpinnerV3.zip",
         "release_details": {
-            "version": "23.02.27",
+            "version": "23.12.04",
             "idf": "v4.3",
             "platform": "UppitySpinnerV3",
-            "branch": "23.02.27"
+            "branch": "23.12.04"
         },
-        "manifest_name": "UppitySpinnerV3-23.02.27-manifest.json"
+        "manifest_name": "UppitySpinnerV3-23.12.04-manifest.json"
     }
 ]
